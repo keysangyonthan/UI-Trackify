@@ -2,7 +2,7 @@
 Made this UI for a friend.
 
 ## Splash Screen
-![Screenshot (63)](https://user-images.githubusercontent.com/39741082/73508225-5a5e3180-4401-11ea-8e81-026cfc8913c7.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/39741082/73508442-fe47dd00-4401-11ea-807e-5417bcb7fb5c.png)
 
 ## Login as a user Page
 ![Screenshot (64)](https://user-images.githubusercontent.com/39741082/73508275-72ce4c00-4401-11ea-9b92-e8f3d9723064.png)
